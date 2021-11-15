@@ -4,7 +4,12 @@
 
 # But not these files...
 !.gitignore
-!Jenkinsfile
-!/tests/
-#!/projects/
+!README.md
+!*.robot
+!*.resource
+!/adapters/
+!/settings/
+!/imports/
+!/objects/
+
 
